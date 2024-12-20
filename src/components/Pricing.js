@@ -5,8 +5,8 @@ import { FaArrowRight } from "react-icons/fa";
 
 export default function Pricing() {
   return (
-    <div id="pricing" className="mt-28 w-full py-16 px-4">
-      <h1 className="text-3xl md:text-6xl font-bold font-urbanist text-center">
+    <div id="pricing" className="w-full py-16 px-4">
+      <h1 className="mt-28 text-3xl md:text-6xl font-bold font-urbanist text-center">
         Flexible Plans,
       </h1>
       <h1 className="text-3xl md:text-6xl font-bold font-urbanist text-center mb-6">

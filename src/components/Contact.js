@@ -5,8 +5,8 @@ import { FaArrowRight } from "react-icons/fa";
 
 export default function Contact() {
   return (
-    <div id="contact" className="w-full px-6 py-10 mt-28">
-      <div className="flex justify-center items-center mb-12">
+    <div id="contact" className="w-full px-6 py-10">
+      <div className="flex justify-center items-center mb-12 mt-28">
         <button className="bg-white border border-gray-300 rounded-l-lg px-4 py-1 mr-2 flex flex-col items-center">
           <span>AI</span>
           <span className="flex">
